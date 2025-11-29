@@ -1,9 +1,9 @@
 # -FULL-STACK-UI-UX-DESIGN-CX
-🎨 FULL STACK UI/UX DESIGN &amp; CX — COMPLETE SYLLABUS
+# 🎨 FULL STACK UI/UX DESIGN &amp; CX — COMPLETE SYLLABUS
 
 
-📌 BAGIAN 1 — FUNDAMENTAL DESIGN
-1. Dasar-dasar Desain
+# 📌 BAGIAN 1 — FUNDAMENTAL DESIGN
+## 1. Dasar-dasar Desain
 
 Apa itu UI, UX, dan CX
 
@@ -19,7 +19,7 @@ Color theory for digital product
 
 Typography & readability
 
-2. Design Thinking
+## 2. Design Thinking
 
 Empathize — memahami user
 
@@ -31,8 +31,8 @@ Prototype — low fidelity
 
 Test — usability testing dasar
 
-📌 BAGIAN 2 — UX DESIGN (USER EXPERIENCE)
-3. UX Research
+# 📌 BAGIAN 2 — UX DESIGN (USER EXPERIENCE)
+## 3. UX Research
 
 User Interview
 
@@ -44,7 +44,7 @@ Market & trend analysis
 
 Creating UX Research plan
 
-4. Persona & Journey
+## 4. Persona & Journey
 
 User Persona
 
@@ -54,7 +54,7 @@ User Journey Map
 
 Pain points & opportunity mapping
 
-5. Information Architecture
+## 5. Information Architecture
 
 Site map
 
@@ -64,7 +64,7 @@ Card sorting
 
 Navigation design
 
-6. Wireframing
+## 6. Wireframing
 
 Low fidelity wireframes
 
@@ -76,8 +76,8 @@ Task flow
 
 Tools: Figma / FigJam
 
-📌 BAGIAN 3 — UI DESIGN (USER INTERFACE)
-7. UI Visual Design
+# 📌 BAGIAN 3 — UI DESIGN (USER INTERFACE)
+## 7. UI Visual Design
 
 Layout principles (Grid, spacing, margin, paddings)
 
@@ -89,7 +89,7 @@ Style guide creation
 
 Iconography & micro illustrations
 
-8. Design System
+## 8. Design System
 
 Atomic Design
 
@@ -99,7 +99,7 @@ Component libraries (Button, Input, Navbar, Cards, Modal)
 
 Building full product design system di Figma
 
-9. High Fidelity UI
+## 9. High Fidelity UI
 
 Landing page design
 
@@ -111,7 +111,7 @@ Interaction states (hover, focus, disabled)
 
 Dark mode / light mode
 
-10. Prototyping
+## 10. Prototyping
 
 Smart animate
 
@@ -121,8 +121,8 @@ Micro-interactions
 
 Advanced prototyping di Figma
 
-📌 BAGIAN 4 — USABILITY & ACCESSIBILITY
-11. Usability
+# 📌 BAGIAN 4 — USABILITY & ACCESSIBILITY
+## 11. Usability
 
 Heuristic evaluation (10 aturan Nielsen)
 
@@ -142,8 +142,8 @@ ARIA roles
 
 Keyboard navigation
 
-📌 BAGIAN 5 — FRONTEND DEVELOPMENT (UI ENGINEERING)
-13. HTML Dasar ke Expert
+# 📌 BAGIAN 5 — FRONTEND DEVELOPMENT (UI ENGINEERING)
+## 13. HTML Dasar ke Expert
 
 Semantic HTML
 
@@ -151,7 +151,7 @@ Accessibility-friendly HTML
 
 Structuring UI components
 
-14. CSS
+## 14. CSS
 
 Flexbox & Grid
 
@@ -163,7 +163,7 @@ Design system implementation di CSS
 
 Sass / Tailwind (opsional)
 
-15. JavaScript Frontend
+## 15. JavaScript Frontend
 
 DOM manipulation
 
@@ -173,7 +173,7 @@ ES6+ fundamentals
 
 Modular JavaScript
 
-16. React / Next.js (UI Framework)
+## 16. React / Next.js (UI Framework)
 
 React components
 
@@ -189,8 +189,8 @@ Connecting frontend to backend API
 
 Building UI with reusable components
 
-📌 BAGIAN 6 — PRODUCT & CX (CUSTOMER EXPERIENCE)
-17. CX Fundamentals
+# 📌 BAGIAN 6 — PRODUCT & CX (CUSTOMER EXPERIENCE)
+## 17. CX Fundamentals
 
 Apa itu Customer Experience
 
@@ -200,7 +200,7 @@ Customer lifecycle & journey
 
 Customer touchpoints
 
-18. Service Design
+## 18. Service Design
 
 Service Blueprint
 
@@ -208,7 +208,7 @@ Ecosystem Mapping
 
 Omnichannel experience
 
-19. CX Optimization
+## 19. CX Optimization
 
 NPS (Net Promoter Score)
 
@@ -218,8 +218,8 @@ Customer Feedback Loop
 
 Experience mapping
 
-📌 BAGIAN 7 — COLLABORATION & WORKPLACE SKILLS
-20. Project Management untuk Designer
+# 📌 BAGIAN 7 — COLLABORATION & WORKPLACE SKILLS
+## 20. Project Management untuk Designer
 
 Agile / Scrum
 
@@ -229,7 +229,7 @@ Working with developers
 
 Design handoff (Figma → Engineer)
 
-21. Design Documentation
+# 21. Design Documentation
 
 UI Spec
 
@@ -239,8 +239,8 @@ Component Documentation
 
 Documentation template
 
-📌 BAGIAN 8 — PROFESSIONAL PORTFOLIO
-22. Portfolio Building
+# 📌 BAGIAN 8 — PROFESSIONAL PORTFOLIO
+## 22. Portfolio Building
 
 Cara memilih project terbaik
 
@@ -250,7 +250,7 @@ Menulis case study yang lulus interview
 
 Visual storytelling (seperti Dribbble/Behance)
 
-23. Job Preparation
+# 23. Job Preparation
 
 CV & Resume khusus UI/UX designer
 
