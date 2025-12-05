@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/Design-UI-UX-CX-BX/refs/heads/main/Basic%20Design.png)
 
-# Fundamental UI, UX, CX, BX HX pada Design
+# Fundamental UI, UX, CX, BX, HX pada Design
 
 ##### UI (User Interface)
 ##### UX (User Experience)
