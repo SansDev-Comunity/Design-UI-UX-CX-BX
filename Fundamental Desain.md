@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/SansDev-Comunity/.github/refs/heads/main/profile/Untitled%20(7).png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Design-UI-UX-CX-BX/refs/heads/main/Basic%20Design.png)
 
 # Fundamental UI, UX, CX, BX HX pada Design
 
