@@ -33,5 +33,5 @@ Fokus: Bagaimana desain dan visual membangun persepsi, citra, dan emosi terhada
 
 Tujuan: Menciptakan koneksi emosional yang kuat dan identitas merek yang konsisten. 
 
-## HX (Human Experience/Pengalaman Manusia)
+## 5. HX (Human Experience/Pengalaman Manusia)
 ##### HX (Human Experience/Pengalaman Manusia) adalah pendekatan holistik yang melampaui UX (User Experience) dan CX (Customer Experience) untuk menciptakan interaksi yang bermakna, empatik, dan berkesan dengan manusia secara keseluruhan di berbagai titik sentuh, mempertimbangkan aspek emosional, sosial, dan psikologis mereka, bukan hanya fungsionalitas produk atau layanan.
